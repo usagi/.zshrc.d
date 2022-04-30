@@ -1,0 +1,7 @@
+alias mkdir="mkdir -pv"
+alias rm="rm -rfv"
+alias cp="cp -rv"
+alias ln="ln -v"
+alias rmdir="rmdir -pv"
+alias mv="mv -v"
+alias rsync="rsync -arvzh --progress"
