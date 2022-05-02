@@ -1,2 +1,2 @@
-remember.os.package-manager
-remember.grep
+# remember.os.package-manager
+# remember.grep
