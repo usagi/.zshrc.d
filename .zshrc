@@ -15,10 +15,10 @@ zsh.log.info $P '↙️Load(Root)'
 
 zsh.source ~/.zshrc.d/zsh ./0
 # zsh.source ~/.zshrc.d ./zsh
-zsh.source ~/.zshrc.d/filesystem
-zsh.source ~/.zshrc.d/display
-zsh.source ~/.zshrc.d/shell
-zsh.source ~/.zshrc.d/nvm.zsh
+zsh.source ~/.zshrc.d/filesystem _
+zsh.source ~/.zshrc.d/display _
+zsh.source ~/.zshrc.d/shell _
+zsh.source ~/.zshrc.d/nvm.zsh _
 
 zsh.log.info $P '↘️Load(Root)'
 
